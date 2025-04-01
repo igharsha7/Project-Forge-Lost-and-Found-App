@@ -13,13 +13,16 @@ Finder is a user-friendly platform designed specifically for college students to
 ## 📱 Screenshots
 
 ### Login Screen
-![Sign in to Finder](https://ibb.co/7t4vdHNr)
+![Sign in to Finder](1.jpeg)
 
 ### Landing Page
-![Finder Landing page](https://ibb.co/Kc7V6BNt)
+![Finder Landing page](2.jpeg)
 
 ### FAQ Section
-![Frequently Asked Questions](https://ibb.co/N2PhFZXc)
+![Frequently Asked Questions](4.jpeg)
+
+### Features
+![Features](3.jpeg)
 
 ## 🛠️ Technologies & Tools
 
