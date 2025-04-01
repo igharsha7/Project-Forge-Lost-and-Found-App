@@ -38,6 +38,7 @@ Finder is built using modern web technologies:
 
 - **Database**:
   - [Prisma](https://www.prisma.io/) - Next-generation ORM for Node.js and TypeScript
+  - [Neon DB](https://neon.tech/) - fully managed, serverless, and open-source PostgreSQL database platform designed for modern applications
 
 
 Made with ❤️ for college students
